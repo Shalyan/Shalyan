@@ -3,7 +3,7 @@
 - Mi nombre es Shalyan
 - Soy un programor Junior
 - Me gusta aprender cada dia mas
-- Mi hobby es desarrolar plugins de minecraft
+- Mi hobby es desarrollar plugins de minecraft
 
 # ⭐ Los lenguajes que utilizo son
 
