@@ -14,3 +14,8 @@
 # ✉ Contacto
 
 - Shalyan#5837
+
+# 📁 Experiencias
+- Ex Owner en Mythos MMORPG
+- Ex Mod y Admin en Champicraft
+- Ex Owner y Developer en Doper Network
