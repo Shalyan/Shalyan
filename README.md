@@ -13,7 +13,8 @@
 
 # ✉ Contacto
 
-- Shalyan#5837
+- Discord: shalyan
+- Email: oagz07@gmail.com
 
 # 📁 Experiencias
 - Ex Owner en Mythos MMORPG
