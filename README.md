@@ -1,7 +1,8 @@
 # ⚡ Shalyan GitHub
 
 - Mi nombre es Shalyan
-- Soy un programor Junior
+- Soy un Developer Semi-Senior
+- Desde 2016 desarrollando plugins Spigot
 - Me gusta aprender cada dia mas
 - Mi hobby es desarrollar plugins bukkit
 
